@@ -1,6 +1,6 @@
 # Frontend Mentor - Clipboard landing page solution
 
-- ## [Live preview 🎨](#)
+- ## [Live preview 🎨](https://rwxdan.github.io/clipboard-landing-page)
 - ## Desktop product 💻
   ![](./assets/screenshots/desktop_product.png)
 - ## Mobile product 📱
